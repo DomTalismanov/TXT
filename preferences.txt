@@ -3,5 +3,5 @@
 	"series": "Chernobyl",
 	"food": " Cheese soup",
 	"season": "Summer",
-	"Counry": "Japan"
+	"Counry": "Spain"
 }
