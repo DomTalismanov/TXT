@@ -1,0 +1,7 @@
+{
+	"film": "The walk",
+	"series": "Chernobyl",
+	"food": " Cheese soup",
+	"season": "Summer",
+	"Counry": "Japan"
+}
