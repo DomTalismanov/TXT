@@ -1,6 +1,5 @@
-{
-	"name":"Surovezhkin Ilya Sergeevich",
-	"age": 21,
-	"pet": 1,
-	"salary": 800
-}
+name - Surovezhkin Ilya Sergeevich
+age - 21
+pet - 1
+salary - 900
+

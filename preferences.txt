@@ -1,7 +1,5 @@
-{
-	"film": "The walk",
-	"series": "Chernobyl",
-	"food": " Cheese soup",
-	"season": "Summer",
-	"Counry": "Spain"
-}
+film - The walk
+series - Chernobyl
+food -  Cheese soup
+season - Summer
+counry - China

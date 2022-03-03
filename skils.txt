@@ -1,28 +1,27 @@
-{
-	"skils":
-		"1. Basic theory (What is testing, bug reports, documentation, types, methods, directions of testing, etc.) SDLC, STLC",
-		"2. What is a client server architecture",
-		"3. Server request methods",
-		"4. Server responses",
-		"5. Query and response structures",
-		"6. What is JSON, XML. Their structure",
-		"7. API testing",
-		"8. Capturing and reading logs",
-		"9. Postman, Fidler",
-		"10. VPN. (How it works, why you need it, how to use it, tool options)",
-		"11. Dev Tools of web browsers (Google Chrome, FireFox)",
-		"12. mobile testing",
-		"13. Feature of iOS, Android, guidlines",
-		"14. Building iOS applications in XCode",
-		"15. Building Android apps on Android Studio",
-		"16. Intercepting mobile traffic (sniffing) through Charles",
-		"17. Setting up proxies on iOS and Android",
-		"18. Linux Ubuntu command line (terminal). Copying, creating, viewing, moving files on servers without GUI",
-		"19. Simple bash scripting, automation of routine tasks on the server",
-		"20. Access to remote servers",
-		"21. SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join",
-		"22. Git",
-		"23. Jmeter",
-		"24. Scrum development methodology",
-		"25. Python. Creating your own client-server application"
-}
+skils
+1. Basic theory (What is testing, bug reports, documentation, types, methods, directions of testing, etc.) SDLC, STLC
+2. What is a client server architecture
+3. Server request methods
+4. Server responses
+5. Query and response structures
+6. What is JSON, XML. Their structure
+7. API testing
+8. Capturing and reading logs
+9. Postman, Fidler
+10. VPN. (How it works, why you need it, how to use it, tool options)
+11. Dev Tools of web browsers (Google Chrome, FireFox)
+12. mobile testing
+13. Feature of iOS, Android, guidlines
+14. Building iOS applications in XCode
+15. Building Android apps on Android Studio
+16. Intercepting mobile traffic (sniffing) through Charles
+17. Setting up proxies on iOS and Android
+18. Linux Ubuntu command line (terminal). Copying, creating, viewing, moving files on servers without GUI
+19. Simple bash scripting, automation of routine tasks on the server
+20. Access to remote servers
+21. SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
+22. Git
+23. Jmeter.
+24. Scrum development methodology
+25. Python. Creating your own client-server application
+
